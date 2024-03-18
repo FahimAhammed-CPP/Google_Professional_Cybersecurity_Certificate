@@ -1,6 +1,6 @@
 # Google Foundation of Cybersecurity Certificate
 
-![Certificate](Google_Foundation_of_Cybersecurity_Certificate.pdf)
+![Certificate](Foundations Of Cybersecurity.pdf)
 
 ## Description
 This repository contains my certificate from completing the Google Foundation of Cybersecurity Certificate program. The program covers foundational knowledge and skills in cybersecurity, including understanding security threats, protecting data and devices, and developing secure solutions.
